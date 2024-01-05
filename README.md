@@ -1,3 +1,8 @@
+##Overview of the Website
+https://easyhomeinteriors.netlify.app/
+
+
+
 ## EASYHOME INTERIORS
     
   Transform your living spaces with EasyHome  Interiors ,where style meets comfort.Discover a curated coolection of high-quality furniture that elevates your home to new heights.From timeless classics to modern marvels,we have something for every taste and life.
